@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm Ahmed from Egypt, and I'm a software engineer student at Tanta University. <br>i enjoy learning new languages and frameworks specially Backend.<br>I'm a Backend developer with some experience with frontend frameworks and languages. 
+I'm Ahmed from Egypt, a software engineering student at Tanta University. 
+Being a backend developer, I extend my knowledge by learning new languages and frameworks.
+Moreover, I have little experience with front-end frameworks and languages.
 
 
 ## 🌐 Socials:
