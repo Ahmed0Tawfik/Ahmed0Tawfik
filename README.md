@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm Ahmed from Egypt, a Backend .NET developer | software engineering student at Tanta University.
-Being a backend developer,I enjoy learning Clean Architecture in .NET Core Framework, I extend my knowledge by learning new languages and frameworks. Moreover,
-I have little experience with front-end frameworks and languages.
+I'm Ahmed, a Computer Engineering student at Tanta University in Egypt, focusing on backend development as a .NET developer. I’m passionate about Clean Architecture in .NET Core and constantly expanding my expertise by learning new languages and frameworks. While my strengths are in backend development, I also have foundational knowledge in front-end frameworks. Alongside my software engineering journey, I’m enthusiastic about cybersecurity, exploring ways to integrate secure coding practices into my projects.
 
 
 ## 🌐 Socials:
