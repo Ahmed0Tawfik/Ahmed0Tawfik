@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ahmedd-tawfik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedd-tawfik" height="30" width="40" /></a>
 <a href="https://fb.com/ahmed.tawfeek.5680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.tawfeek.5680" height="30" width="40" /></a>
-<a href="https://instagram.com/aahmed,tawfik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aahmed,tawfik" height="30" width="40" /></a>
+<a href="https://instagram.com/aahmed.tawfik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aahmed,tawfik" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/toffii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="toffii" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmed0tawfik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed0tawfik" height="30" width="40" /></a>
 </p>
