@@ -69,6 +69,4 @@ As a Computer Engineering student at Tanta University, I'm constantly expanding 
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed0tawfik&show_icons=true&locale=en&layout=compact" alt="ahmed0tawfik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed0tawfik&show_icons=true&locale=en" alt="ahmed0tawfik" /></p>
