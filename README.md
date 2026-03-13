@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Tawfik | Software Engineer </h1>
 
 
-SEE MY INTERACTIVE WEB APP FOR CV HERE ====> https://ahmed0tawfik.github.io/AhmedTawfik-CV/
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed0tawfik&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed0tawfik" /> </p>
 
@@ -14,13 +14,7 @@ While .NET is my main focus, I have foundational knowledge in Node.js and am act
 
 As a Computer Engineering student at Tanta University, I'm constantly expanding my understanding of software engineering concepts like design patterns, system design, and security practices - creating systems that are not just functional, but fortified.
 
----
-
-**Currently:** Software Engineer at Total, Computer Engineering student at Tanta University, Egypt
-
-**Mission:** Mastering Software Engineering, distributed systems and secure architecture principles that scale
-
----
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
